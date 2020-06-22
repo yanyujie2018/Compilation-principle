@@ -1,0 +1,4 @@
+char SourceFile[2000]; //存放读出的文件信息
+char token[20];//存储单词记号int syn=-1;//种别码
+int p=0;//用于访问文件的指针,相当于SourceFile[2000]数组的下标
+FILE *fp;
