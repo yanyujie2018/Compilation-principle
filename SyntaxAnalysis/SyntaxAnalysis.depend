@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1561131994 source:e:\acm\compilingprinciple\syntaxanalysis\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<stack>
+	<cstring>
+
